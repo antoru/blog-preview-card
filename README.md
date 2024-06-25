@@ -25,7 +25,7 @@ Users should be able to view the optimal layout for the app depending on their d
 
 ### Links
 
-- Live Site URL: []()
+- Live Site URL: [https://antoru.github.io/blog-preview-card/](https://antoru.github.io/blog-preview-card/)
 
 ## My process
 
